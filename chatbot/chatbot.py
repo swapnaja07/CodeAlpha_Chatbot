@@ -10,7 +10,7 @@ pairs = [
     ["website for fibonnacci series", ["https://www.geeksforgeeks.org/python-program-to-print-the-fibonacci-sequence/"]],
     ["tell me more about your self", [" Chatbots are computer programs designed to simulate conversation with human users, typically through text-based interfaces but can also include voice-based interactions."]],
     ["bye|goodbye", ["Goodbye!", "Bye! Take care."]],
-]hi
+]
 
 
 chatbot = Chat(pairs, reflections)
